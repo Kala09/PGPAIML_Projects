@@ -31,13 +31,13 @@ FoodHub’s rapid growth has created operational questions that require an evide
 5. Business framing: Each figure is paired with an explicit managerial interpretation to keep analyses decision‑oriented.
 
 #### Key Questions & Findings (Executive Summary)
-1. When do people order? Orders concentrate on weekends (~70%), indicating lifestyle‑driven peaks and a predictable capacity crunch.
-2. What do they order? American is the dominant cuisine; Japanese/Italian follow. Vietnamese/Spanish/Korean are niche.
-3. Where do they order from? Shake Shack leads by order count; other frequent venues include The Meatball Shop, Blue Ribbon Sushi, Blue Ribbon Fried Chicken, Joe’s Pizza.
-4. How fast is service? Typical prep 20–35 min; delivery mean ≈ 24.2 min. Only ~2% of orders exceed 60 min total (prep + delivery).
-5. What do ratings say? Five‑star ratings dominate among provided ratings, but ~39% of orders are unrated; this is a major feedback blind spot.
-6. Elasticities/correlations: No strong correlation between cost/prep/delivery and rating; operational consistency appears high across price bands.
-7. Commission model (illustrative): With 25% on orders > $20 and 15% on $5–$20, net revenue computed on the dataset is $7,183.50.
+1. **When do people order?** Orders concentrate on weekends (~70%), indicating lifestyle‑driven peaks and a predictable capacity crunch.
+2. **What do they order?** American is the dominant cuisine; Japanese/Italian follow. Vietnamese/Spanish/Korean are niche.
+3.** Where do they order from?** Shake Shack leads by order count; other frequent venues include The Meatball Shop, Blue Ribbon Sushi, Blue Ribbon Fried Chicken, Joe’s Pizza.
+4. **How fast is service?** Typical prep 20–35 min; delivery mean ≈ 24.2 min. Only ~2% of orders exceed 60 min total (prep + delivery).
+5. **What do ratings say?** Five‑star ratings dominate among provided ratings, but ~39% of orders are unrated; this is a major feedback blind spot.
+6. **Elasticities/correlations:** No strong correlation between cost/prep/delivery and rating; operational consistency appears high across price bands.
+7. **Commission model (illustrative):** With 25% on orders > $20 and 15% on $5–$20, net revenue computed on the dataset is $7,183.50.
 
 #### Business Recommendations
 1. Weekend ops surge plan: Add rider/kitchen capacity and micro‑batch dispatching on Fri‑Sun to trim the ~3‑minute weekend delivery delta.
