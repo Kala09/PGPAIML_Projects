@@ -15,10 +15,10 @@ FoodHub’s rapid growth has created operational questions that require an evide
 1. Observational unit: One row per order.
 2. Rows & columns: 1,898 orders, 9 variables.
 3. Schema:
-order_id (int), customer_id (int)
-restaurant_name (str), cuisine_type (str)
-cost_of_the_order (float), day_of_the_week (str)
-rating (str/float), food_preparation_time (int), delivery_time (int)
+`order_id (int)`, `customer_id (int)`
+`restaurant_name (str)`, `cuisine_type (str)`
+`cost_of_the_order (float)`, `day_of_the_week (str)`
+`rating (str/float)`, `food_preparation_time (int)`, `delivery_time (int)`
 4. Integrity: No missing values detected.
 5. Context note: Ratings include a “Not given” category; these are coerced to NaN for numeric analyses.
 
