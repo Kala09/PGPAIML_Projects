@@ -10,7 +10,7 @@ My interests include building scalable ML solutions, intelligent systems, and da
 
 🔗 **Portfolio:** https://www.mygreatlearning.com/eportfolio/kalavathi-munasa
 
-🔗 **LinkedIn: **linkedin.com/in/kalavathi-munasa-99684a14a
+🔗 **LinkedIn:** linkedin.com/in/kalavathi-munasa-99684a14a
 
 ### 📂 Projects Overview
 **Project Name**	         **Domain**	             **Key Focus**
